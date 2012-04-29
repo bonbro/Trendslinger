@@ -1,2 +1,2 @@
 4/29:
-Setting up the Trendsligner git repository.
+Setting up the Trendslinger git repository.
