@@ -1,0 +1,46 @@
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-04-29 18:14:54 -0700
+Served asset /rails.png - 200 OK (10ms)
+
+
+Started GET "/assets/rails.png" for 192.168.0.11 at 2012-04-29 18:15:36 -0700
+Served asset /rails.png - 200 OK (7ms)
+
+
+Started GET "/rails/info/properties" for 192.168.0.11 at 2012-04-29 18:16:53 -0700
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (11.0ms)
+Completed 200 OK in 36ms (Views: 35.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-04-29 18:26:35 -0700
+Served asset /rails.png - 304 Not Modified (8ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-04-29 18:26:43 -0700
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-04-29 18:26:45 -0700
+Processing by Rails::InfoController#properties as HTML
+  Rendered inline template (2.7ms)
+Completed 200 OK in 14ms (Views: 13.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-04-29 18:26:47 -0700
+Processing by Rails::InfoController#properties as HTML
+  Rendered inline template (0.4ms)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-04-29 18:26:47 -0700
+Processing by Rails::InfoController#properties as HTML
+  Rendered inline template (0.5ms)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2012-04-29 18:26:53 -0700
+Processing by Rails::InfoController#properties as HTML
+  Rendered inline template (0.4ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
